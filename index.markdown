@@ -54,3 +54,16 @@ Herausgegeben vom Rotary Club
 "Wie werden wir morgen arbeiten?"
 
 ---
+
+## Weiteres
+<b>Diese Website</b>  
+Zu finden auf [Github](https://github.com/MixColumns/thorgerjansen.de)
+
+<u>2023</u> <b>Protest auf dem Campus</b>  
+Kommentar für die [BSZ](https://www.bszonline.de/wp-content/uploads/2023/10/bsz-1390.pdf)
+
+<u>Dez. 2019</u> <b>Webnacht an der Uni</b>  
+Gastbeitrag für die [BSZ](https://www.bszonline.de/2019/12/05/webnacht-der-uni/)
+
+<u>Apr. 2019</u> <b>Spielenacht an der Uni</b>  
+Gastbeitrag für die [BSZ](https://www.bszonline.de/2019/04/29/spielenacht-der-uni/)
