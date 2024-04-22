@@ -8,11 +8,6 @@ title: "Thorger Jansen"
 ---
 
 ## Ehrenamt
-
-<u>M채r 2024 - M채r 2024</u> <b>Fellowship </b>   
-ada Stipendium  
-[https://www.join-ada.com/](https://www.join-ada.com/)
-
 <u>Sep 2023 - Present</u> <b>Referatsleitung</b>   
 Referatsleitung des Autonomen Referats f체r Menschen mit Behinderungen und s채mtlichen Beeintr채chtigungen des
 AStA an der Ruhr-Universit채t Bochum  
@@ -39,6 +34,9 @@ Mitglied des Fachschaftsrats Elektrotechnik/IT-Sicherheit an der Ruhr-Universit�
 ---
 
 ## Ehrungen und Auszeichnungen
+<u>M채r 2024 - M채r 2024</u> <b>Fellowship </b>   
+ada Stipendium  
+[https://www.join-ada.com/](https://www.join-ada.com/)
 
 <u>2024</u> <b>Appreciation Letter</b>  
 Stabsstelle Informationssicherheit Ruhr-Universit채t Bochum
