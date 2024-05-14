@@ -41,7 +41,7 @@ ada Stipendium
 <u>2024</u> <b>Appreciation Letter</b>  
 Stabsstelle Informationssicherheit Ruhr-Universität Bochum
 
-<b>2024 Danksagung der Bundeswehr für IT-Sicherheitsforschende / VDPBw-Coin</b>  
+<u>2024</u> <b>Danksagung der Bundeswehr für IT-Sicherheitsforschende / VDPBw-Coin</b>  
 [https://www.bundeswehr.de/de/security-policy/danksagung](https://www.bundeswehr.de/de/security-policy/danksagung)  
 [https://twitter.com/thorgerj/status/1762859200256811384](https://twitter.com/thorgerj/status/1762859200256811384)
 
