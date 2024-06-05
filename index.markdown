@@ -57,6 +57,11 @@ Herausgegeben vom Rotary Club
 
 ## Veröffentlichungen
 
+**CVE-2024-25975, CVE-2024-25976, CVE-2024-25977** (2024)   
+<u>Thorger Jansen</u>, Florian Stuhlmann   
+**Writeup**   
+[[SEC Consult Vulnerability Lab]](https://sec-consult.com/vulnerability-lab/advisory/multiple-vulnerabilities-in-hawki/)
+
 **An overview of outdoor and indoor naviagtion in regard to the use of existing standards** (2023)  
 <u>Thorger Jansen</u>, Leon Pascal Burkardsmaier   
 **Conference Paper**  
