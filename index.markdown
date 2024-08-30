@@ -3,56 +3,6 @@ layout: default
 title: "Thorger Jansen"
 ---
 
-# Über mich
-
----
-
-## Ehrenamt
-<u>Sep 2023 - Present</u> <b>Referatsleitung</b>   
-Referatsleitung des Autonomen Referats für Menschen mit Behinderungen und sämtlichen Beeinträchtigungen des
-AStA an der Ruhr-Universität Bochum  
-[https://behindert-an-der-rub.de/](https://behindert-an-der-rub.de/)
-
-<u>Feb 2023 - Present</u> <b>Vorstandsmitglied</b>  
-NAWI - Liste der Naturwissenschaftler und Ingenieure  
-[https://www.nawi-bochum.de/](https://www.nawi-bochum.de/)
-
-<u>Nov 2022 - Sep 2023</u> <b>Referatsmitglied</b>  
-Referatsmitgleid des Autonomen Referats für Menschen mit Behinderungen und sämtlichen Beeinträchtigungen des
-AStA an der Ruhr-Universität Bochum  
-[https://behindert-an-der-rub.de/](https://behindert-an-der-rub.de/)
-
-<u>Feb 2019 - Mar 2020</u> <b>AStA Referend</b>  
-(Allgemeiner Studierendenausschuss der Ruhr-Universität Bochum)  
-Referend für Service uns Öffentlichkeitsarbeit  
-[https://asta-bochum.de/](https://asta-bochum.de/)
- 
-<u>Nov 2018 - Jan 2021</u> <b>Fachschaftsrat Mitglied</b>  
-Mitglied des Fachschaftsrats Elektrotechnik/IT-Sicherheit an der Ruhr-Universität Bochum.  
-[https://fs-its.rub.de/](https://fs-its.rub.de/)
-
----
-
-## Ehrungen und Auszeichnungen
-<u>Mär 2024 - Mär 2024</u> <b>Fellowship </b>   
-ada Stipendium  
-[https://www.join-ada.com/](https://www.join-ada.com/)
-
-<u>2024</u> <b>Appreciation Letter</b>  
-Stabsstelle Informationssicherheit Ruhr-Universität Bochum
-
-<u>2024</u> <b>Danksagung der Bundeswehr für IT-Sicherheitsforschende / VDPBw-Coin</b>  
-[https://www.bundeswehr.de/de/security-policy/danksagung](https://www.bundeswehr.de/de/security-policy/danksagung)  
-[https://twitter.com/thorgerj/status/1762859200256811384](https://twitter.com/thorgerj/status/1762859200256811384)
-
-<u>2018</u> <b>Rotary Youth Leadership Award (RYLA)</b>  
-Herausgegeben vom Rotary Club  
-"Was hält Deutschland zusammen? Werte in unserer Gesellschaft!"
-
-<u>2017</u> <b>Rotary Youth Leadership Award (RYLA)</b>  
-Herausgegeben vom Rotary Club  
-"Wie werden wir morgen arbeiten?"
-
 ---
 
 ## Veröffentlichungen
@@ -67,7 +17,6 @@ Herausgegeben vom Rotary Club
 **Conference Paper**  
 [[PDF]](https://hss-opus.ub.ruhr-uni-bochum.de/opus4/frontdoor/index/index/docId/10121)
 
-
 **CVE-2022-30760** (2022)  
 <u>Thorger Jansen</u>, Christian Krug   
 **Writeup**  
@@ -75,13 +24,95 @@ Herausgegeben vom Rotary Club
 
 ---
 
+## Zertifizierungen
+
+**HTB CBBH**  
+Issued Aug 2024  
+Hack The Box - Credential ID HTBCERT-B959DE106A [(verify)](https://www.hackthebox.com/certificates)  
+
+**Intro to DFIR: The Divide and Conquer Process (3 hours)**  
+Issued Oct 2020  
+BasisTech [(verify)](https://training.sleuthkitlabs.com/certificates/u2xnsed98x)  
+
+**Autopsy Basics and Hands On (8-Hours)**  
+Issued May 2020  
+BasisTech [(verify)](https://training.sleuthkitlabs.com/certificates/s3nujcwhgn)  
+
+**Microsoft Dynamics 365 Business Central on Prem-Workshop (Basis)**  
+Issued Jun 2019  
+SPOTS-BSS GmbH (member of tegos group), Dortmund
+
+---
+
+## Ehrenamt
+**Referatsleitung**  
+<u>Sep 2023 - Present</u>  
+Referatsleitung des Autonomen Referats für Menschen mit Behinderungen und sämtlichen Beeinträchtigungen des
+AStA an der Ruhr-Universität Bochum  
+[https://behindert-an-der-rub.de/](https://behindert-an-der-rub.de/)
+
+**Vorstandsmitglied**  
+<u>Feb 2023 - Present</u>  
+NAWI - Liste der Naturwissenschaftler und Ingenieure  
+[https://www.nawi-bochum.de/](https://www.nawi-bochum.de/)
+
+**Referatsmitglied**  
+<u>Nov 2022 - Sep 2023</u>  
+Referatsmitgleid des Autonomen Referats für Menschen mit Behinderungen und sämtlichen Beeinträchtigungen des
+AStA an der Ruhr-Universität Bochum  
+[https://behindert-an-der-rub.de/](https://behindert-an-der-rub.de/)
+
+**AStA Referend**  
+<u>Feb 2019 - Mar 2020</u>  
+(Allgemeiner Studierendenausschuss der Ruhr-Universität Bochum)  
+Referend für Service uns Öffentlichkeitsarbeit  
+[https://asta-bochum.de/](https://asta-bochum.de/)
+ 
+**Fachschaftsrat Mitglied**  
+<u>Nov 2018 - Jan 2021</u>  
+Mitglied des Fachschaftsrats Elektrotechnik/IT-Sicherheit an der Ruhr-Universität Bochum.  
+[https://fs-its.rub.de/](https://fs-its.rub.de/)
+
+---
+
+## Ehrungen und Auszeichnungen
+**Fellowship**  
+<u>Mar 2024</u>  
+ada Stipendium - [https://www.join-ada.com/](https://www.join-ada.com/)
+
+**Appreciation Letter**  
+<u>2024</u>  
+[Appreciation Letter](uploads/RUB_Letter.jpg) der Stabsstelle Informationssicherheit Ruhr-Universität Bochum
+
+**Danksagung der Bundeswehr für IT-Sicherheitsforschende / VDPBw-Coin**  
+<u>2024</u>  
+[https://www.bundeswehr.de/de/security-policy/danksagung](https://www.bundeswehr.de/de/security-policy/danksagung)  
+[https://twitter.com/thorgerj/status/1762859200256811384](https://twitter.com/thorgerj/status/1762859200256811384)
+
+**Rotary Youth Leadership Award (RYLA)**  
+<u>2018</u>  
+Herausgegeben vom Rotary Club  
+"Was hält Deutschland zusammen? Werte in unserer Gesellschaft!"
+
+**Rotary Youth Leadership Award (RYLA)**  
+<u>2017</u>    
+Herausgegeben vom Rotary Club  
+"Wie werden wir morgen arbeiten?"
+
+---
+
+
+
 ## Weiteres
 
-<u>2023</u> <b>Protest auf dem Campus</b>  
+**Protest auf dem Campus**  
+<u>2023</u>  
 Kommentar für die [BSZ](https://www.bszonline.de/wp-content/uploads/2023/10/bsz-1390.pdf)
 
-<u>Dez. 2019</u> <b>Webnacht an der Uni</b>  
+**Webnacht an der Uni**  
+<u>Dez. 2019</u>  
 Gastbeitrag für die [BSZ](https://www.bszonline.de/2019/12/05/webnacht-der-uni/)
 
-<u>Apr. 2019</u> <b>Spielenacht an der Uni</b>  
+**Spielenacht an der Uni**  
+<u>Apr. 2019</u>  
 Gastbeitrag für die [BSZ](https://www.bszonline.de/2019/04/29/spielenacht-der-uni/)
