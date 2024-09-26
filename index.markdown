@@ -25,10 +25,13 @@ title: "Thorger Jansen"
 ---
 
 ## Zertifizierungen
+**Microsoft Certified: Azure Fundamentals (AZ-900)**  
+Issued Sep 2024  
+Microsoft - Credential ID [ D4A84C-3A9667 ](https://learn.microsoft.com/de-de/users/thorgerjansen-7634/transcript/7olqysk348olpwm)
 
 **HTB CBBH**  
 Issued Aug 2024  
-Hack The Box - Credential ID HTBCERT-B959DE106A [(verify)](https://www.hackthebox.com/certificates)  
+Hack The Box - Credential ID [HTBCERT-B959DE106A](https://www.hackthebox.com/certificates)  
 
 **Intro to DFIR: The Divide and Conquer Process (3 hours)**  
 Issued Oct 2020  
@@ -45,16 +48,16 @@ SPOTS-BSS GmbH (member of tegos group), Dortmund
 ---
 
 ## Ehrenamt
-**Referatsleitung**  
-<u>Sep 2023 - Present</u>  
-Referatsleitung des Autonomen Referats für Menschen mit Behinderungen und sämtlichen Beeinträchtigungen des
-AStA an der Ruhr-Universität Bochum  
-[https://behindert-an-der-rub.de/](https://behindert-an-der-rub.de/)
-
 **Vorstandsmitglied**  
 <u>Feb 2023 - Present</u>  
 NAWI - Liste der Naturwissenschaftler und Ingenieure  
 [https://www.nawi-bochum.de/](https://www.nawi-bochum.de/)
+
+**Referatsleitung**  
+<u>Sep 2023 - Sep 2024</u>  
+Referatsleitung des Autonomen Referats für Menschen mit Behinderungen und sämtlichen Beeinträchtigungen des
+AStA an der Ruhr-Universität Bochum  
+[https://behindert-an-der-rub.de/](https://behindert-an-der-rub.de/)
 
 **Referatsmitglied**  
 <u>Nov 2022 - Sep 2023</u>  
