@@ -25,25 +25,55 @@ title: "Thorger Jansen"
 ---
 
 ## Zertifizierungen
+**Ethical Hacker**  
+Issued Nov 2024  
+Udacity - Credential ID [ 22dae834-b7ba-11ef-9195-7fa325b7c30e ](https://www.udacity.com/certificate/e/22dae834-b7ba-11ef-9195-7fa325b7c30e)
+
 **Microsoft Certified: Azure Fundamentals (AZ-900)**  
 Issued Sep 2024  
 Microsoft - Credential ID [ D4A84C-3A9667 ](https://learn.microsoft.com/de-de/users/thorgerjansen-7634/transcript/7olqysk348olpwm)
 
 **HTB CBBH**  
 Issued Aug 2024  
-Hack The Box - Credential ID [HTBCERT-B959DE106A](https://www.hackthebox.com/certificates)  
+Hack The Box - Credential ID [ HTBCERT-B959DE106A ](https://www.hackthebox.com/certificates)  
 
 **Intro to DFIR: The Divide and Conquer Process (3 hours)**  
 Issued Oct 2020  
-BasisTech [(verify)](https://training.sleuthkitlabs.com/certificates/u2xnsed98x)  
+BasisTech - Credential ID [ u2xnsed98x ](https://training.sleuthkitlabs.com/certificates/u2xnsed98x)  
 
 **Autopsy Basics and Hands On (8-Hours)**  
 Issued May 2020  
-BasisTech [(verify)](https://training.sleuthkitlabs.com/certificates/s3nujcwhgn)  
+BasisTech - Credential ID [ s3nujcwhgn ](https://training.sleuthkitlabs.com/certificates/s3nujcwhgn)  
 
 **Microsoft Dynamics 365 Business Central on Prem-Workshop (Basis)**  
 Issued Jun 2019  
 SPOTS-BSS GmbH (member of tegos group), Dortmund
+
+---
+
+## Ehrungen und Auszeichnungen
+**Fellowship**  
+<u>Mar 2024</u>  
+ada Stipendium - [https://www.join-ada.com/](https://www.join-ada.com/)
+
+**Appreciation Letter**  
+<u>2024</u>  
+[Appreciation Letter](uploads/RUB_Letter.jpg) der Stabsstelle Informationssicherheit Ruhr-Universit채t Bochum
+
+**Danksagung der Bundeswehr f체r IT-Sicherheitsforschende / VDPBw-Coin**  
+<u>2024</u>  
+[https://www.bundeswehr.de/de/security-policy/danksagung](https://www.bundeswehr.de/de/security-policy/danksagung)  
+[https://twitter.com/thorgerj/status/1762859200256811384](https://twitter.com/thorgerj/status/1762859200256811384)
+
+**Rotary Youth Leadership Award (RYLA)**  
+<u>2018</u>  
+Herausgegeben vom Rotary Club  
+"Was h채lt Deutschland zusammen? Werte in unserer Gesellschaft!"
+
+**Rotary Youth Leadership Award (RYLA)**  
+<u>2017</u>    
+Herausgegeben vom Rotary Club  
+"Wie werden wir morgen arbeiten?"
 
 ---
 
@@ -77,34 +107,6 @@ Mitglied des Fachschaftsrats Elektrotechnik/IT-Sicherheit an der Ruhr-Universit�
 [https://fs-its.rub.de/](https://fs-its.rub.de/)
 
 ---
-
-## Ehrungen und Auszeichnungen
-**Fellowship**  
-<u>Mar 2024</u>  
-ada Stipendium - [https://www.join-ada.com/](https://www.join-ada.com/)
-
-**Appreciation Letter**  
-<u>2024</u>  
-[Appreciation Letter](uploads/RUB_Letter.jpg) der Stabsstelle Informationssicherheit Ruhr-Universit채t Bochum
-
-**Danksagung der Bundeswehr f체r IT-Sicherheitsforschende / VDPBw-Coin**  
-<u>2024</u>  
-[https://www.bundeswehr.de/de/security-policy/danksagung](https://www.bundeswehr.de/de/security-policy/danksagung)  
-[https://twitter.com/thorgerj/status/1762859200256811384](https://twitter.com/thorgerj/status/1762859200256811384)
-
-**Rotary Youth Leadership Award (RYLA)**  
-<u>2018</u>  
-Herausgegeben vom Rotary Club  
-"Was h채lt Deutschland zusammen? Werte in unserer Gesellschaft!"
-
-**Rotary Youth Leadership Award (RYLA)**  
-<u>2017</u>    
-Herausgegeben vom Rotary Club  
-"Wie werden wir morgen arbeiten?"
-
----
-
-
 
 ## Weiteres
 
