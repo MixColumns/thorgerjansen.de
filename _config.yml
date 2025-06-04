@@ -57,9 +57,9 @@ plugins:
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
-#  - name: TSJ-Dev.de
-#    icon: 🦊
-#    link: https://tsj-dev.de
+  - name: TSJ-Dev.de
+    icon: 🦊
+    link: https://tsj-dev.de
   - name: Linkedin
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/thorger-jansen/
@@ -74,7 +74,7 @@ sidebar:
     link: https://www.researchgate.net/profile/Thorger-Sebastian-Jansen
   - name: Twitch
     icon: <i class="fa-brands fa-twitch"></i>
-    link: https://www.twitch.tv/thorgerj
+    link: https://www.twitch.tv/nicole4fox
   - name: Twitter
     icon: <i class="fa-brands fa-twitter"></i>
     link: https://twitter.com/thorgerj
